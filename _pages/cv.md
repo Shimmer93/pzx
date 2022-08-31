@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the PDF version here (Chinese and English)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bs.C. in Computer Science in the Hong Kong University of Science and Technology, 2018 ~ 2022
+* MPhil in Computer Science and Engineering in the Hong Kong University of Science and Technology, 2022 ~ Now
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern in Manycore Inc., Summer 2022
   
-Skills
+Academic Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* UROP: Gesture recognition using Raspberry Pi platform leveraging machine learning technology, 2019
+* UROP: Real-time license plate recognition on Raspberry Pi, 2019 ~ 2021
+* UROP: CounTr: End-to-end Single Image Crowd Counting with Transformer, 2021 ~ 2022
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Programming Languages: Python, Java, C++, JavaScript
+* Programming Applications: Machine Learning (mainly Computer Vision), Software Development, Web Programming, Computer Graphics
+* English: TOFEL: 107 (Reading: 29, Listening: 30, Speaking: 24, Writing: 24)
+
+Honors
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* University's Scholarship Scheme for Continuing Undergraduate Students, HKUST, 2018;2019
+* Dean’s List, School of Engineering, 2018;2019;2020;2021
+* The Most Adorable Idea Award, HackUST2021, 2021
