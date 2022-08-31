@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the PDF version here (Chinese and English)
+You can download the PDF version [here](shimmer93.github.io/files/cv.pdf) (Chinese and English)
 
 Education
 ======

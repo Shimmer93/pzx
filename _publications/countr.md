@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/countr
 excerpt: 'We introduce CounTr, a novel end-to-end transformer approach for crowd counting and density estimation, which enables capture global context in every layer of the Transformer.'
 date: 2022-10-24
-venue: 'IWDSC 2022'
+venue: 'IWDSC (ECCV Workshop)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
