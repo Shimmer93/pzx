@@ -5,7 +5,7 @@ permalink: /publication/countr
 excerpt: 'We introduce CounTr, a novel end-to-end transformer approach for crowd counting and density estimation, which enables capture global context in every layer of the Transformer.'
 date: 2022-10-24
 venue: 'IWDSC (ECCV Workshop)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Bai, H., He, H., Peng, Z., Dai, T., Chan, SH.G. (2023). CounTr: An End-to-End Transformer Approach for Crowd Counting and Density Estimation. In: Karlinsky, L., Michaeli, T., Nishino, K. (eds) Computer Vision – ECCV 2022 Workshops. ECCV 2022. Lecture Notes in Computer Science, vol 13806. Springer, Cham. https://doi.org/10.1007/978-3-031-25075-0_16'
 ---
 
 Abstract
@@ -14,4 +14,4 @@ Modeling context information is critical for crowd counting and density estimati
 
 Resources
 ======
-[PDF](http://shimmer93.github.io/files/paper1.pdf) Github
+[Link](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_16)

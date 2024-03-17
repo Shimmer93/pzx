@@ -12,4 +12,5 @@ I am an MPhil student in [the Hong Kong university of science and technology](ht
 
 News
 ======
-* **2022.08**: [CounTR](publication/countr) is accepted to IWDSC2022 (ECCV Workshop)
+* **2022.08**: [CounTR](publication/countr) is accepted to IWDSC2022 (ECCV Workshop).
+* **2024.02**: [MPCount](publication/mpcount) is accepted to CVPR2024.
