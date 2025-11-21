@@ -6,40 +6,46 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
-You can download the PDF version [here](shimmer93.github.io/files/cv.pdf) (Chinese and English)
+You can download the PDF version here: [Chinese ](shimmer93.github.io/files/cv_chinese.pdf)/ [English](shimmer93.github.io/files/cv_english.pdf)
 
 Education
-======
-* Bs.C. in Computer Science in the Hong Kong University of Science and Technology, 2018 ~ 2022
-* MPhil in Computer Science and Engineering in the Hong Kong University of Science and Technology, 2022 ~ Now
+=========
+
+* Ph.D. in Computer Science and Engineering in the Hong Kong University of Science and Technology, 2024 ~ Now
+* M.Phil. in Computer Science and Engineering in the Hong Kong University of Science and Technology, 2022 ~ 2024
+* B.Sc. in Computer Science (Double majored in
+  Mathematics) in the Hong Kong University of Science and Technology, 2018 ~ 2022
 
 Work Experience
-======
-* Research Intern in Manycore Inc., Summer 2022
-  
-Academic Experience
-======
-* UROP: Gesture recognition using Raspberry Pi platform leveraging machine learning technology, 2019
-* UROP: Real-time license plate recognition on Raspberry Pi, 2019 ~ 2021
-* UROP: CounTr: End-to-end Single Image Crowd Counting with Transformer, 2021 ~ 2022
+===============
+
+* GZPI Part-Time Intern: Detection-based Object Counting in Huge Images, 2025.3 ~ 2025.7
+* Manycore Inc. Research Intern: Sketch-based Modeling Using Geometric Constaints, 2022.5 ~ 2022.8
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+============
+
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Academic Services
+=================
+
+* Reviewer: AAAI (26), CVPR (25), TNNLS (25), TPAMI (24), TIP (25), TMM (24), INFOCOM (22, 23, 24), MICCAI (24)
+
 Skills
 ======
-* Programming Languages: Python, Java, C++, JavaScript
-* Programming Applications: Machine Learning (mainly Computer Vision), Software Development, Web Programming, Computer Graphics
-* English: TOFEL: 107 (Reading: 29, Listening: 30, Speaking: 24, Writing: 24)
+
+* Programming: Python, Java, C++, JavaScript
+* Tools: PyTorch, LaTeX, Unix, Git, Django
+* Languages: English (Proficient), Japanese (Elementary), Mandarin (Native)
 
 Honors
 ======
+
 * University's Scholarship Scheme for Continuing Undergraduate Students, HKUST, 2018;2019
-* Dean’s List, School of Engineering, 2018;2019;2020;2021
+* Dean' s List, School of Engineering, 2018;2019;2020;2021
 * The Most Adorable Idea Award, HackUST2021, 2021
